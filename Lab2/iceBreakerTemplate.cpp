@@ -80,7 +80,7 @@ bool writeFile(string filename, const vector<string> & v0, const vector<string> 
 
 int main()
 {
-    srand(time(nullptr));
+    
     vector<string> roster;
     vector<string> qBank;
     readFile("2310_F26_Rosters.csv", roster);
