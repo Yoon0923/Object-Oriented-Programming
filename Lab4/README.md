@@ -12,4 +12,4 @@ A player loses after taking 3 hits. The winner gains experience and continues to
 The game continues until only one player remains.
 
 ## Output
-![Lab 4 Output](images/Lab4_Output.png)
+![Lab 4 Output](Images/Lab4_Output.png)
